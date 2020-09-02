@@ -1,0 +1,9 @@
+This is a Online Shopping Website created for CSE311(Database management system) Course as a team work.
+To run the project from your computer, follow the steps given below-
+
+1. Download Xampp
+2. Copy the files in your folder and copy that in htdocs folder
+3. Load Xampp
+4. Open PhpMyadmin/localhost from your browser
+5. Import the sql file
+6. Search for PhpMyadmin/localhost/the_project_folder_name_you_have_given
